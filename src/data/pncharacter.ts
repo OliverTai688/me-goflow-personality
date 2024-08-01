@@ -4,7 +4,7 @@ export const characters =
 [
     {
         "letter": "A",
-        "level": "L",
+        "level": "H",
         "coretrait": "主動/靜觀",
         "people": "我是主動的人",
         "catogary": "主動",
@@ -20,7 +20,7 @@ export const characters =
     },
     {
         "letter": "A",
-        "level": "H",
+        "level": "L",
         "coretrait": "主動/靜觀",
         "people": "我是靜觀的人",
         "catogary": "靜觀",
@@ -28,7 +28,7 @@ export const characters =
     },
     {
         "letter": "B",
-        "level": "L",
+        "level": "H",
         "coretrait": "社交/獨處",
         "people": "我是社交的人",
         "catogary": "社交",
@@ -44,7 +44,7 @@ export const characters =
     },
     {
         "letter": "B",
-        "level": "H",
+        "level": "L",
         "coretrait": "社交/獨處",
         "people": "我是獨處的人",
         "catogary": "獨處",
@@ -52,7 +52,7 @@ export const characters =
     },
     {
         "letter": "C",
-        "level": "L",
+        "level": "H",
         "coretrait": "主導/支持",
         "people": "我是主導的人",
         "catogary": "主導",
@@ -68,7 +68,7 @@ export const characters =
     },
     {
         "letter": "C",
-        "level": "H",
+        "level": "L",
         "coretrait": "主導/支持",
         "people": "我是支持的人",
         "catogary": "支持",
@@ -76,7 +76,7 @@ export const characters =
     },
     {
         "letter": "D",
-        "level": "L",
+        "level": "H",
         "coretrait": "樂觀/悲觀",
         "people": "我是樂觀的人",
         "catogary": "樂觀",
@@ -92,7 +92,7 @@ export const characters =
     },
     {
         "letter": "D",
-        "level": "H",
+        "level": "L",
         "coretrait": "樂觀/悲觀",
         "people": "我是悲觀的人",
         "catogary": "悲觀",
@@ -100,7 +100,7 @@ export const characters =
     },
     {
         "letter": "E",
-        "level": "L",
+        "level": "H",
         "coretrait": "自信/自卑",
         "people": "我是自信的人",
         "catogary": "自信",
@@ -116,7 +116,7 @@ export const characters =
     },
     {
         "letter": "E",
-        "level": "H",
+        "level": "L",
         "coretrait": "自信/自卑",
         "people": "我是自卑的人",
         "catogary": "自卑",
@@ -124,7 +124,7 @@ export const characters =
     },
     {
         "letter": "F",
-        "level": "L",
+        "level": "H",
         "coretrait": "鈍感/敏感",
         "people": "我是鈍感的人",
         "catogary": "鈍感",
@@ -140,7 +140,7 @@ export const characters =
     },
     {
         "letter": "F",
-        "level": "H",
+        "level": "L",
         "coretrait": "鈍感/敏感",
         "people": "我是敏感的人",
         "catogary": "敏感",
@@ -148,7 +148,7 @@ export const characters =
     },
     {
         "letter": "G",
-        "level": "L",
+        "level": "H",
         "coretrait": "穩定/變異",
         "people": "我是穩定的人",
         "catogary": "穩定",
@@ -164,22 +164,22 @@ export const characters =
     },
     {
         "letter": "G",
-        "level": "H",
+        "level": "L",
         "coretrait": "穩定/變異",
         "people": "我是變異的人",
         "catogary": "變異",
         "description": "我是個情感豐富情緒活躍的人，情緒有較多起伏和變化，容易感情用事意志不堅，心情易受外在事物影響。"
     },
     {
-        "letter": "H",
-        "level": "L",
+        "letter": "L",
+        "level": "H",
         "coretrait": "同理/主見",
         "people": "我是同理的人",
         "catogary": "同理",
         "description": "我偏向設身處地理解對方實際情況，察覺其情緒及需求，以對方立場角度去思考和感受，尊重接納他人處境。"
     },
     {
-        "letter": "H",
+        "letter": "L",
         "level": "M",
         "coretrait": "同理/主見",
         "people": "我是同理主見M的人",
@@ -187,8 +187,8 @@ export const characters =
         "description": "我能設身處地理解對方的情緒及需求，尊重接納。但也顧及自己的需求與主見，敢於對事不對人。"
     },
     {
-        "letter": "H",
-        "level": "H",
+        "letter": "L",
+        "level": "L",
         "coretrait": "同理/主見",
         "people": "我是主見的人",
         "catogary": "主見",
@@ -196,7 +196,7 @@ export const characters =
     },
     {
         "letter": "I",
-        "level": "L",
+        "level": "H",
         "coretrait": "友善/講理",
         "people": "我是友善的人",
         "catogary": "友善",
@@ -212,7 +212,7 @@ export const characters =
     },
     {
         "letter": "I",
-        "level": "H",
+        "level": "L",
         "coretrait": "友善/講理",
         "people": "我是講理的人",
         "catogary": "講理",
@@ -220,7 +220,7 @@ export const characters =
     },
     {
         "letter": "J",
-        "level": "L",
+        "level": "H",
         "coretrait": "合作/抗爭",
         "people": "我是合作的人",
         "catogary": "合作",
@@ -236,7 +236,7 @@ export const characters =
     },
     {
         "letter": "J",
-        "level": "H",
+        "level": "L",
         "coretrait": "合作/抗爭",
         "people": "我是抗爭的人",
         "catogary": "抗爭",
@@ -244,7 +244,7 @@ export const characters =
     },
     {
         "letter": "K",
-        "level": "L",
+        "level": "H",
         "coretrait": "深思/直覺",
         "people": "我是深思的人",
         "catogary": "深思",
@@ -260,22 +260,22 @@ export const characters =
     },
     {
         "letter": "K",
-        "level": "H",
+        "level": "L",
         "coretrait": "深思/直覺",
         "people": "我是直覺的人",
         "catogary": "直覺",
         "description": "我偏好直覺反應，衝動直接；只有少量必要的資訊也可做決定，不需憂慮，船到橋頭自然直；為了準時交件不一定要完美。"
     },
     {
-        "letter": "L",
-        "level": "L",
+        "letter": "H",
+        "level": "H",
         "coretrait": "盡責/不拘",
         "people": "我是盡責的人",
         "catogary": "盡責",
         "description": "我喜歡仔細檢查自己或團體的工作有否達到正確標準，依照進度完成任務，工作內容整齊有序，注意細節，做到完美。"
     },
     {
-        "letter": "L",
+        "letter": "H",
         "level": "M",
         "coretrait": "盡責/不拘",
         "people": "我是盡責不拘M的人",
@@ -283,8 +283,8 @@ export const characters =
         "description": "我會檢查工作有否達到自訂的標準，工作內容尚能整齊有序。做事不刻意要求完美，把握重點即可，不需太過重視細節。"
     },
     {
-        "letter": "L",
-        "level": "H",
+        "letter": "H",
+        "level": "L",
         "coretrait": "盡責/不拘",
         "people": "我是不拘的人",
         "catogary": "不拘",
@@ -292,7 +292,7 @@ export const characters =
     },
     {
         "letter": "M",
-        "level": "L",
+        "level": "H",
         "coretrait": "理性/感性",
         "people": "我是理性的人",
         "catogary": "理性",
@@ -308,7 +308,7 @@ export const characters =
     },
     {
         "letter": "M",
-        "level": "H",
+        "level": "L",
         "coretrait": "理性/感性",
         "people": "我是感性的人",
         "catogary": "感性",
@@ -316,7 +316,7 @@ export const characters =
     },
     {
         "letter": "N",
-        "level": "L",
+        "level": "H",
         "coretrait": "恆毅/隨興",
         "people": "我是恆毅的人",
         "catogary": "恆毅",
@@ -332,7 +332,7 @@ export const characters =
     },
     {
         "letter": "N",
-        "level": "H",
+        "level": "L",
         "coretrait": "恆毅/隨興",
         "people": "我是隨興的人",
         "catogary": "隨興",
@@ -340,7 +340,7 @@ export const characters =
     },
     {
         "letter": "O",
-        "level": "L",
+        "level": "H",
         "coretrait": "變通/慣性",
         "people": "我是變通的人",
         "catogary": "變通",
@@ -356,7 +356,7 @@ export const characters =
     },
     {
         "letter": "O",
-        "level": "H",
+        "level": "L",
         "coretrait": "變通/慣性",
         "people": "我是慣性的人",
         "catogary": "慣性",
@@ -364,7 +364,7 @@ export const characters =
     },
     {
         "letter": "P",
-        "level": "L",
+        "level": "H",
         "coretrait": "創新/深耕",
         "people": "我是創新的人",
         "catogary": "創新",
@@ -380,7 +380,7 @@ export const characters =
     },
     {
         "letter": "P",
-        "level": "H",
+        "level": "L",
         "coretrait": "創新/深耕",
         "people": "我是深耕的人",
         "catogary": "深耕",
@@ -388,7 +388,7 @@ export const characters =
     },
     {
         "letter": "Q",
-        "level": "L",
+        "level": "H",
         "coretrait": "理念/常規",
         "people": "我是理念的人",
         "catogary": "理念",
@@ -404,7 +404,7 @@ export const characters =
     },
     {
         "letter": "Q",
-        "level": "H",
+        "level": "L",
         "coretrait": "理念/常規",
         "people": "我是常規的人",
         "catogary": "常規",
@@ -412,7 +412,7 @@ export const characters =
     },
     {
         "letter": "R",
-        "level": "L",
+        "level": "H",
         "coretrait": "溫度",
         "people": "目前狀態溫度低",
         "catogary": "溫度低",
@@ -428,7 +428,7 @@ export const characters =
     },
     {
         "letter": "R",
-        "level": "H",
+        "level": "L",
         "coretrait": "溫度",
         "people": "目前狀態溫度高",
         "catogary": "溫度高",
